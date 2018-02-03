@@ -91,15 +91,12 @@ a.button{
 	padding: 1rem;
 	font-size: 12px;
 	text-align: center;
+	color:black;
 }
 .item--discounted{
 /*	border: 1px solid red;*/
 	order: 1;
 }
 a.button{
-
-border-color: black;	
+border-color: rgb(117, 15, 37);	
 }
-
-
-
